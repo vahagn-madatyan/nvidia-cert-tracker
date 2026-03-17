@@ -2,6 +2,8 @@
 
 Interactive dashboard for tracking progress through NVIDIA's AI certification path. Built for a 6-week study plan covering NCA-AIIO and NCA-GENL.
 
+> **Try it on Perplexity Computer:** [NVIDIA AI Certification Study](https://www.perplexity.ai/computer/tasks/nvidia-ai-certification-study-jGsllbvLQiiP1u.k1iq03A?view=thread)
+
 ## Certifications
 
 | Cert | Full Name | Timeline | Cost |
